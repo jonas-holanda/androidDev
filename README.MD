@@ -16,6 +16,22 @@
 🔹🔈 Nível Iniciante | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafio_1/src/Desafio_Iniciante.kt)
 🔹🔉 Nível Intermediário | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafio_1/src/Desafio_Intermediario.kt/)
 
+## Desafios de Lógica
+
+### Lista de Exercícios
+
+Questão | Resolução
+:------| :-------:
+🔹Questão 1 | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafios_de_Logica/src/Questao1.kt)
+🔹Questão 2 | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafios_de_Logica/src/Questao2.kt)
+🔹Questão 3 | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafios_de_Logica/src/Questao3.kt)
+🔹Questão 4 | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafios_de_Logica/src/Questao4.kt)
+🔹Questão 5 | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafios_de_Logica/src/Questao5.kt)
+🔹Questão 6 | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafios_de_Logica/src/Questao6.kt)
+🔹Questão 7 | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafios_de_Logica/src/Questao7.kt)
+🔹Questão 8 | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafios_de_Logica/src/Questao8.kt)
+🔹Questão 9 | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafios_de_Logica/src/Questao9.kt)
+🔹Questão 10 | [![Ver Código](https://img.shields.io/badge/Ver%20C%C3%B3digo-a97bff?style=for-the-badge&logo=kotlin&logoColor=white)](./Desafios_de_Logica/src/Questao10.kt)
 
 ## Links Úteis
 
